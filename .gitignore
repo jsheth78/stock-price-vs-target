@@ -1,0 +1,9 @@
+*.xlsx
+*.pyc
+__pycache__/
+.claude/
+charts_direct/
+_ul
+check_*.py
+*.egg-info/
+.env
